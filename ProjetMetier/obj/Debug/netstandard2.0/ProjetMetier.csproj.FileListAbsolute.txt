@@ -1,0 +1,9 @@
+C:\CSHARP\ProjetRetard\ProjetMetier\bin\Debug\netstandard2.0\ProjetMetier.deps.json
+C:\CSHARP\ProjetRetard\ProjetMetier\bin\Debug\netstandard2.0\ProjetMetier.dll
+C:\CSHARP\ProjetRetard\ProjetMetier\bin\Debug\netstandard2.0\ProjetMetier.pdb
+C:\CSHARP\ProjetRetard\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.csprojAssemblyReference.cache
+C:\CSHARP\ProjetRetard\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.AssemblyInfoInputs.cache
+C:\CSHARP\ProjetRetard\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.AssemblyInfo.cs
+C:\CSHARP\ProjetRetard\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.csproj.CoreCompileInputs.cache
+C:\CSHARP\ProjetRetard\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.dll
+C:\CSHARP\ProjetRetard\ProjetMetier\obj\Debug\netstandard2.0\ProjetMetier.pdb
